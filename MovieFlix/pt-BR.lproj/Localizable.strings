@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  MovieFlix
+
+  Created by Doni on 16/03/23.
+  
+*/
+
+"languageKeyValue" = "pt-BR";
+
+// MARK: HOME
+
+"titleHome" = "Movies Flix";
+"subtitleHome" = "Descubra os melhores filmes, \n assista seus trailers \n e favorite-os! \n\n 🎦 🎬 🍿";
+"enterButtonHome" = "Entrar";
+
+// MARK: - FAVORITES
+
+"titleFavorites" = "Favoritos";
+"emptyFavoritesMessage" = "Nenhum filme favorito.\n\n Adicione um na tela de \n Detalhes do Filme";
+"titleTabBar" = "Filmes";
+"errorDialogTitle" = "Algo deu Errado!";
+"unableToRemove" = "Não pode ser removido.";
+"voteLabelText" = "Votos";
+"releaseLabelText" = "Lançamento";
+
+// MARK: - HOME
+
+"nowPlayingText" = "Em Cartaz nos Cinemas";
+"upComingText" = "Estréia em breve";
+"topRatedText" = "Mais Votados";
+"popularText" = "Populares";
+
+// MARK: - MOVIE DETAIL
+
+"minutes" = "minutos";
+"titleSinopse" = "Sinopse";
+"buttonWatchTitle" = "Assistir Trailer";
+"titleAlertSuccess" = "Sucesso!";
+"messageAlertSuccess" = "Você favoritou esse filme com sucesso 🎉.";
+"messageAlertFailure" = "Algo deu errado.";
+
+
+// MARK: - CUSTOM VIEWS
+
+"errorTitle" = "Algo deu errado!";
+"errorMessage" = "Não foi possível completar a requisição.";
+
+// MARK: - MFERROR
+
+"unableToComplete" = "Não foi possível completar sua requisição. Por favor, verifique sua conexão com a Internte.";
+"invalidResponse" = "Response inválido do servido. Por favor, tente novamente.";
+"invalidData" = "Os dados rebecidos pelo servidor são inválidos. Por favor tente novamente.";
+"unableToFavorite" = "Houve um erro ao favoritar este filme. Por favor, tente novamente.";
+"alreadyInFavorites" = "Você já favoritou este filme. Você deve gostar MUITO dele!";
+"invalidURL" = "URL Inválida.";
+
+
+
+
+
+
+
+
+
+
+
+
+

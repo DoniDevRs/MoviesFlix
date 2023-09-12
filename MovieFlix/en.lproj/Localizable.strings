@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MovieFlix
+
+  Created by Doni on 16/03/23.
+  
+*/
+
+"languageKeyValue" = "en-US";
+
+// MARK: HOME
+
+"titleHome" = "Movies Flix";
+"subtitleHome" = "Discover the best movies, \n watch their trailers \n and favorite them! \n\n 🎦 🎬 🍿";
+"enterButtonHome" = "Enter";
+
+// MARK: - FAVORITES
+
+"titleFavorites" = "Favorites";
+"emptyFavoritesMessage" = "No favorites movies.\n\n Add one on the \nMovies Detail Screen";
+"titleTabBar" = "Movies";
+"errorDialogTitle" = "Something went wrong!";
+"unableToRemove" = "Unable to remove.";
+"voteLabelText" = "Votes";
+"releaseLabelText" = "Release";
+
+// MARK: - HOME
+
+"nowPlayingText" = "Now Playing";
+"upComingText" = "Upcoming";
+"topRatedText" = "Top Rated";
+"popularText" = "Popular";
+
+// MARK: - MOVIE DETAIL
+
+"minutes" = "minutes";
+"titleSinopse" = "Synopsis";
+"buttonWatchTitle" = "Watch Trailer";
+"titleAlertSuccess" = "Success!";
+"messageAlertSuccess" = "You have successfully favorited this movie 🎉.";
+"messageAlertFailure" = "Something went wrong.";
+
+// MARK: - CUSTOM VIEWS
+
+"errorTitle" = "Something went wrong";
+"errorMessage" = "Unable to complete request.";
+
+// MARK: - MFERROR
+
+"unableToComplete" = "Unable to complete your request. Please check your internet connection";
+"invalidResponse" = "Invalid response from the server. Please try again";
+"invalidData" = "The data received from the server was invalid. Please try again.";
+"unableToFavorite" = "There was an error favoriting this movie. Please try again.";
+"alreadyInFavorites" = "You've already favorited this movie. You must REALLY like them!";
+"invalidURL" = "Invalid URL.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
