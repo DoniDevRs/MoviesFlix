@@ -17,7 +17,7 @@ iOS Application using The Movie Database (TMDb) API.
 - CocoaPods
 - Clean Architecture
 
-- ## Features
+## Features
 - Enter Screen
 - Movies tab
 - Now Playing Carrousel
@@ -28,7 +28,7 @@ iOS Application using The Movie Database (TMDb) API.
 - Watch Trailer Button - (Send to YouTube)
 - Favorites Movies tab
 
-- ## Screenshots
+## Screenshots
 |Movies Screen|Movie Detail Screen|Favorites Screen|  
 |:-:|:-:|:-:|
 |<img src="/MovieFlix/Assets.xcassets/MovieScreen.imageset/MoviesScrenn.png" width="250"/>|<img src="/MovieFlix/Assets.xcassets/MovieDetailScreen.imageset/MovieDetailScreen.png" width="250"/>|<img src="/MovieFlix/Assets.xcassets/FavoritesScreen.imageset/FavoritesScreen.png" width="250"/>|
